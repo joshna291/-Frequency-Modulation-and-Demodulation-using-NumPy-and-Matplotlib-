@@ -64,7 +64,9 @@ __Output__:
 
 
 __Tabulation__:
+![WhatsApp Image 2025-11-27 at 08 56 02_800135aa](https://github.com/user-attachments/assets/3358aed7-48c0-4a36-9c3a-9a068f47af78)
 
+![WhatsApp Image 2025-11-27 at 08 56 13_a960c427](https://github.com/user-attachments/assets/658c8d7c-3039-4259-a183-819528426610)
 
 __Result:__
 Thus the Frequency Modulation and Demodulation using NumPy and Matplotlib is verified successfully.
